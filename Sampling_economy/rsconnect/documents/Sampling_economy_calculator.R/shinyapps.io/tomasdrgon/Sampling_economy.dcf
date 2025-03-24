@@ -1,0 +1,11 @@
+name: Sampling_economy
+title:
+account: tomasdrgon
+server: shinyapps.io
+appId: 128595
+bundleId: 1036674
+url: https://tomasdrgon.shinyapps.io/Sampling_economy/
+when: 1508511539.80646
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|experiment.R|Sampling_economy.R
