@@ -1,0 +1,82 @@
+# TOS model
+
+nsamples<-c(10, 50, 100, 500, 1000, 5000)
+FSE<-vector(mode="numeric", length=0)
+
+
+#s<-scan("aoc.txt") #real audit data, # of AoC per line, about 3000 entries
+s<-c(rep (0, times=990), rep (1, times=10)) #presence or absence at certain frequency
+samp<-vector(mode="numeric", length=0)
+
+for (i in 1:1000){
+  sa<-sample(s, 10, replace=TRUE)
+  sam<-mean(sa)
+  samp<-append(samp,sam)
+}
+
+samp10<-samp
+
+samp<-vector(mode="numeric", length=0)
+
+for (i in 1:1000){
+  sa<-sample(s, 50, replace=TRUE)
+  sam<-mean(sa)
+  samp<-append(samp,sam)
+}
+
+samp50<-samp
+
+samp<-vector(mode="numeric", length=0)
+
+for (i in 1:1000){
+  sa<-sample(s, 100, replace=TRUE)
+  sam<-mean(sa)
+  samp<-append(samp,sam)
+}
+
+samp100<-samp
+
+samp<-vector(mode="numeric", length=0)
+
+for (i in 1:1000){
+  sa<-sample(s, 500, replace=TRUE)
+  sam<-mean(sa)
+  samp<-append(samp,sam)
+}
+
+samp500<-samp
+
+samp<-vector(mode="numeric", length=0)
+
+for (i in 1:1000){
+  sa<-sample(s, 1000, replace=TRUE)
+  sam<-mean(sa)
+  samp<-append(samp,sam)
+}
+
+samp1000<-samp
+
+samp<-vector(mode="numeric", length=0)
+
+for (i in 1:1000){
+  sa<-sample(s, 5000, replace=TRUE)
+  sam<-mean(sa)
+  samp<-append(samp,sam)
+}
+
+samp5000<-samp
+
+sd10<-sd(samp10)
+sd50<-sd(samp50)
+sd100<-sd(samp100)
+sd500<-sd(samp500)
+sd1000<-sd(samp1000)
+sd5000<-sd(samp5000)
+
+sd<-c(sd10,sd50,sd100,sd500,sd1000,sd5000)
+FSE<-(sd/(mean(s)))*100
+
+plot(nsamples, sd, type="b")
+plot(nsamples, FSE, type="b")
+boxplot(samp10, samp50, samp100, samp500, samp1000, samp5000, names=nsamples)
+result<-vector(mode="numeric", length=0)
