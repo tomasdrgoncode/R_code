@@ -1,0 +1,11 @@
+name: point_estimate_distribution
+title: Point Estimate Distribution
+account: tomasdrgon
+server: shinyapps.io
+appId: 213669
+bundleId: 980709
+url: https://tomasdrgon.shinyapps.io/point_estimate_distribution/
+when: 1505339500.87921
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|binomial.txt|binomial_sampling.R|gamma_dist.R|general_sampling.R|point_estimate_distribution.R

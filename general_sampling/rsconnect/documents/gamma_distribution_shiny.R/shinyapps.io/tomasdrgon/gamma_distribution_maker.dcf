@@ -1,0 +1,11 @@
+name: gamma_distribution_maker
+title: Gamma distribution maker
+account: tomasdrgon
+server: shinyapps.io
+appId: 259866
+bundleId: 1193107
+url: https://tomasdrgon.shinyapps.io/gamma_distribution_maker/
+when: 1516911012.61598
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|binomial.txt|binomial_sampling.R|gamma_dist.R|general_sampling.R|Henry_aflatoxins.txt|point_estimate_distribution.R|point_estimate_distribution_shiny.R|USDA_example_TOS.R|whitaker_lots.R

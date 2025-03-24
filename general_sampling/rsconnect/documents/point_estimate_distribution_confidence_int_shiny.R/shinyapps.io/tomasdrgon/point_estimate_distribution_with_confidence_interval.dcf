@@ -1,0 +1,11 @@
+name: point_estimate_distribution_with_confidence_interval
+title: Point estimate distribution with confidence interval
+account: tomasdrgon
+server: shinyapps.io
+appId: 355538
+bundleId: 1413083
+url: https://tomasdrgon.shinyapps.io/point_estimate_distribution_with_confidence_interval/
+when: 1528222292.94185
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|binomial.txt|binomial_sampling.R|gamma_dist.R|gamma_distribution_shiny.R|general_sampling.R|Henry_aflatoxins.txt

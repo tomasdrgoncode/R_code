@@ -1,0 +1,11 @@
+name: general_sampling
+title: general_sampling
+account: tomasdrgon
+server: shinyapps.io
+appId: 259859
+bundleId: 1189334
+url: https://tomasdrgon.shinyapps.io/general_sampling/
+when: 1516734754.10751
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|binomial.txt|binomial_sampling.R|gamma_dist.R|general_sampling.R|Henry_aflatoxins.txt|point_estimate_distribution.R|point_estimate_distribution_shiny.R|USDA_example_TOS.R|whitaker_lots.R
