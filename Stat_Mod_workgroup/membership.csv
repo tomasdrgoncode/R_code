@@ -1,0 +1,94 @@
+name1,name2,email,center,office,modeling_expertise,regulatory_expertise
+Huang,Yuru,Yuru.Huang@fda.hhs.gov,CFSAN,OFAS,beyesian inference; survival analysis; Generalized linear mixed model;Monte Carlo simulation,sodium reduction; consumer safety
+Lu,Xiaowu,xiaowu.lu@fda.hhs.gov,CTP,OS,Statistics,Informatics
+Liu,Xiaofei,Xiaofei.liu@fda.hhs.gov,CDER,OPQ,"Multiphysics simulation, statistical modeling","Pharmaceutical analysis (in vitro, in silico, statistical), drug application reveiew"
+Teka,Wondimu,wondimu.teka@fda.hhs.gov,CTP,OS,developing Mathematical and Stastical model,
+Bryan,Wilson,Wilson.Bryan@fda.hhs.gov,CBER,OTAT,None,Clinical Trials
+Vijay,Vikrant,vikrant.vijay@fda.hhs.gov,OCS,DSB/PMB,"big data, QSAR, knowledge bases, statistical modeling using SAS and R",
+Simonyan,Vahan,vahan.simonyan@fda.hhs.gov,CBER,HIVE,"Monte Carlo, Grand canonical ensembles, Metropolis, dynamic networks, chaos theory","NGS analytics, large scale computations"
+Chen,Tracy,Tracy.Chen@fda.hhs.gov,OC,ORSI/OCS,,
+Drgon,Tomas,tomas.drgon@fda.hhs.gov,ORA,OPRM,"ABM, System Dynamic, Network, Statistical","ORA, work planning, audits, sampling"
+O'Connor,Thomas,thomas.oconnor@fda.hhs.gov,CDER,,"Flowseheet process modeling, Multivariate statistical modeling, Monte Carlo",Reviewer
+Navas,Teresa,Teresa.Navas@fda.hhs.gov,CDER,OPQ,Basic chemical process modeling  using simulation programs,"4 years performing FDA inspections, 2 years working in FDA regulatory laboratories"
+Slavov,Svetoslav,svetoslav.slavov@fda.hhs.gov,OCS,DSB,"QSAR, Drug design, QSPR, Statistics, Quantum Mechanics",
+Bright-Ponte,Susan,susan.bright@fda.hhs.gov,CVM,OSC,"data mining, risk models","animal drugs, food safety, antimicrobial resistance"
+Dadiboyena,Suresh,sureshbabu.dadiboyena@fda.hhs.gov,OC,CDER,"R, Hadoop, Java, Spark and Scala-Programming",Product Drug Review
+Thomson,Steven,steven.thomson@fda.hhs.gov,CDER,DB 6,"General statistical models, Psychometric models (but rusty!-(, some Bayesian","General review, Carcinogenicity"
+Condrey,Gary,steve.condrey@fda.hhs.gov,ORA,DWCI,entry-level but willing to learn,23 years with FDA including 8 years as a field investigator and 7 years as a quality manager
+Wittayanukorn,Saranrat,saranrat.wittayanukorn@fda.hhs.gov,CDER,OGD,,
+Dutta,Sara,sara.dutta@fda.hhs.gov,CDER,OCP,cardiac electrophysiology and drug block modeling,
+Worrell,Sallamar,sallamar.worrell@fda.hhs.gov,CDER,OPSA,,
+Alrefai-Kirkpatrick,Rudaina,rudaina.alrefai-kirkpatrick@fda.hhs.gov,CTP,OS,"Used statistical anayses of available epidemiological data to evaluate safety and efficacy of health technology, including drugs, medical devices, biologics and medical procedures","Guidance development; regulation of food additives, environmental risk assessment of tobacco-related activities"
+Weil,Roxana,roxana.weil@fda.hhs.gov,CTP,Science,deterministic and probabilistic risk assessment,FDA- tobacco
+Kazmierski,Robert,robert.kazmierski@fda.hhs.gov,CDRH,ODE,extensive experience with mechanistic modeling but we rarely if ever see these in submissions. we are seeing more and more statistical models in our submissions,lead reviewer in CDRH/ODE
+Zusterzeel,Robbert,robbert.zusterzeel@fda.hhs.gov,CDER,OTS/OCP,Bayesian analysis; performance goals; single-arm trials,Cardiac devices; cardiac drug effects
+Beger,Richard,Richard.Beger@fda.hhs.gov,OCS,DSB,"SDAR, molecular dynamics, 3D NMR structures, free energy calculations","metabolomics, proteomics, imaging, modleing"
+Kazemi-Tabriz,Reza,reza.kazemi-tabriz@fda.hhs.gov,CDER,OSP,"Modeling, risk modeling, dynamic modeling",5 years FDA experience
+Yeager,Raymond Philip,raymond.yeager@fda.hhs.gov,CTP,OS,Toxicological Risk Assessment,Tobacco Product Science; Risk Assessment
+Doddasomayajula,Ravi,ravi.doddasomayajula@fda.hhs.gov ,CDRH,DIDSR,basic,none
+VERMA,RAJESHWAR,Rajeshwar.Verma@fda.hhs.gov,CFSAN,OCAC,"20 years (SAR, QSAR, MOA/mechanistic-QSAR, QSPR, Expert system, Read-across, Decesion Tree)",6 years (Food and cosmetics)
+Li,Qian,qian.li@fda.hhs.gov,CTP,OS,Risk assessment modeling,CTP
+Hatim,Qais,qais.hatim@fda.hhs.gov,CDER,OTS/OCS,PhD in Operation Research and Statistical Modeling,
+Takmakov,Pavel,pavel.takmakov@fda.hhs.gov,CDRH,,"data mining, diffusion modeling",neuromodulatiuon
+Rodriguez,Paulina,Paulina.Rodriguez@fda.hhs.gov,CDRH,OSEL,"mathematics, physics, statistics",
+Schuette,Paul,Paul.Schuette@fda.hhs.gov,CDER,OTS/OB,"stochastic and statisistical models, agent based models, differential equations","safety, data standards, statistical and scientific computing"
+Volarath,Patra,Patra.Volarath@fda.hhs.gov,CFSAN,OFAS,"SAR/QSAR, chemical-toxicity databases/data models, knowledgebases, data science",
+Chatterjee,Parnali,parnali.chatterjee@fda.hhs.gov,CDER,OPQ,"IVIVC, PBPK",
+Richfield,Owen,Owen.Richfield@fda.hhs.gov,CDRH,OSEL,"CFD, statistical machine learning",interest in pharmaceuticals regulation
+Smith,Nikki,nikki.smith@fda.hhs.gov,CFSAN,OFAS,PBPK,n/a
+Duraiswamy,Nandini,nandini.duraiswamy@fda.hhs.gov,CDRH,OSEL,Finite element analysis (FEA) and computational fluid dynamics (CFD),"cardiovascular, neurovascular (heart valves, cardiac leads, stents)"
+Zheng,Nan,nan.zheng@fda.hhs.gov,CDER,OTS/OCP,"popPK, PK/PD, PBPK, statistics, mechanism-based model","generic drugs, oncology drugs, clinical pharmacology"
+Sharifi,Mohsen,ms530@kentforlife.net ,OCS,B329,My second master and my PhD degrees are in computational chemistry and chemoinformatics,Mohsen.Sharifi@fda.hhs.gov
+Al-Kalaa,Mohamad,Mohamad.Al-Kalaa@fda.hhs.gov,CDRH,OSEL,"Wireless technology, wireless coexistence","RF, Wireless, EMC"
+Jaiswal,Mihir,mihir.jaiswal@fda.hhs.gov,CDER,OBI,,
+Batz,Michael,Michael.Batz@fda.hhs.gov,OC,RPSM,"QMRA, risk ranking, risk prioritization, MCDA, epidemiological modeling,",
+Hu,Meng,meng.hu@fda.hhs.gov,CDER,OGD,Methodology,"API sameness, In vitro bioequivalence, Machine learning"
+Rosenberg,Matt,matthew.rosenberg@fda.hhs.gov,CDER,OPSA,"Econometrics, Data Mining, R, Stata","Economist with experience working on drug pricing, drug shortages, boxed warnings, and other CDER topics"
+Walter-Grimm,Linda,linda.walter-grimm@fda.hhs.gov,CVM,OSC,data mining,veterinary pharmacovigilance; disproportionality analysis
+Zhao,Liang,liang.zhao@fda.hhs.gov,CDER,OGD,"Pharmacometrics, statistics",New drug and generic drug development and reviews
+Palmer,Lee Anne,Leeanne.palmer@fda.hhs.gov,CVM,OSC DVPS,Epidemiology,"Post-approval ADE monitoring and surveillance, animal food related AE surveillance"
+Lauren,Brookmire,Lauren.Brookmire@fda.hhs.gov,CFSAN,OFAS,"predictive modeling, computer programming, statistics, food safety simulations, dietary intake models, ingredient exposure modeling, SAS, R, MATLAB","food additive petitions, GRAS ingredient review, nutrient intake guidance"
+Fujimoto,Kyoko,kyoko.fujimoto@fda.hhs.gov,CDRH,OSEL,mild,none
+Myers,Kyle,Kyle.Myers@fda.hhs.gov,CDRH,OSEL,"statistics of imaging clinical trials and reader studies, physics modeling of x-ray image formation mechanisms, model observers (machine image readers)","medical imaging, computer-aided diagnosis"
+Chada,Kinnera,kinnera.chada@fda.hhs.gov,CBER,OBE,"Systems Biology, Benfit Risk Assessment, Infectious Diseases","Evaluate donor deferral policies, safety evaluation of biologics"
+Zhi,Jizu,jizu.zhi@fda.hhs.gov,CDER,OND,,
+Fan,Jianghong,jianghong.fan@fda.hhs.gov,CDER,ORS,PBPK modeling and simulation,guidance revision and development
+Wang,Jian,jian.wang@fda.hhs.gov,CDER,ODEIV,"15 Years experience on modeling and simulation, pharmacometrics","senior pharmacometrics reviewer, Associate director"
+Mulinde,Jean,Jean.Mulinde@fda.hhs.gov,CDER,,,
+Tiwari,Jawahar,jawahar.tiwari@fda.hhs.gov,CBER,OBE,"Basic knowledge of data mining and text mining concepts, some familiarity with SAS data mining software","Biostatistics reviewer, design and analysis of clinical trials"
+Van Doren,Jane,jane.vandoren@fda.hhs.gov,CFSAN,OAO,,Food Safety
+Roche,James,james.roche@fda.hhs.gov,CTP,OS,physics of flow,tobacco product application reviewer
+Shin,Hyungsik,hyungsik.shin@fda.hhs.gov,CTP,OS,"Agent-based modeling, social-network and system dydnamics",N/A
+Ezzeldin,Hussein,hussein.ezzeldin@fda.hhs.gov,CBER,OBE,"Computational fluid dynamics, Molecular Dynamics, Statistical Modeling, System modeling, Protein Structure Prediction, Folding and Docking, Multi-scale Modeling",
+Hong,Huixiao,Huixiao.Hong@fda.hhs.gov,OCS,DBB,"Network algorithms, database, machine learning,",genetics and genomics
+Lin,Ho-Pi,ho-pi.lin@fda.hhs.gov,CDER,OPQ/ONDP,"PBPK modeling, pop PK modeling, big data",Biopharmaceutics
+WEN,HONG,hong.wen@fda.hhs.gov,CDER,OPQ,,"Drug delivery, Bioequivalence"
+Duggirala,Hesha,Hesha.Duggirala@fda.hhs.gov,CVM,,,
+Huang,Guilan,guilan.huang@fda.hhs.gov,CFSAN,,"geospatial intelligence, GIS-driven modeling and simulation",Food safety
+Claycamp,Gregg,Gregg.Claycamp@fda.hhs.gov,CVM,ONADE,risk assessment; MCMC for design and risk,risk analysis; decision analysis; risk management
+Lee,General,general.lee@fda.hhs.gov,CTP,OS,"Data Architectures, Computational Modeling, Statistical M&S, CFD, FEM",Regulatory Information Specialist supporting toxicology and environmental science reviews
+Yaghouby,Farid,farid.yaghouby@fda.hhs.gov,CDRH,OSEL,"Physiological Monitoring, Machine learning, Signal processing",
+Salazar,Esther,Esther.Salazar@fda.hhs.gov,CTP,OS,"yes, population model, bayesian analysis, Monte Carlo simulation, spatio-temporal modeling, time series analysis",
+Matthews,Edwin,edwin.matthews@fda.hhs.gov,CFSAN,OFAS,"23 years, molecular descriptor & fragment based commercial software",FDA/CDER & FDA/CFSAN Research Collaboration Agreements
+Wang,Dong,dong.wang@fda.hhs.gov,OCS,DBB,"Statistical  modeling, machine learning, Bayesiannetworks, bioinformatics","Risk assessment, toxicological modeling, experiment and trial designs"
+Srinivasan,Devayani,devayani.srinivasan@fda.hhs.gov,CFSAN,OFAS,PBPK,n/a
+Aggarwal,Deepak,deepak.aggarwal@fda.hhs.gov,CDER,OND,"System Dynamikcs, Monte Carlo, Regression, SQL Server",Regulatory Project manager
+Soltysik,David,david.soltysik@fda.hhs.gov,CDRH,OSEL,fMRI simulations,MR compatibility
+Mehta,Darshan,Darshan.Mehta@fda.hhs.gov,CFSAN,OFAS,"cheminformatics, statistics, (Q)SAR",
+Abernethy,Darrell,darrell.abernethy@fda.hhs.gov,CDER,OCP,"Mechanistic predictive toxicology models, ontology building","Clinical Pharmacology, Biosimilar Drugs"
+Graff,Christian,christian.graff@fda.hhs.gov,CDRH,OSEL,imaging; anatomy; virtual patient; machine learning; virtual clinical trials,algorithms; imaging; computer-aided diagnosis
+Daluwatte,Chathuri,chathuri.daluwatte@fda.hhs.gov,CDRH,OSEL,"Statistical Models, Bayesian modelling in HPC (Performance Goals, Single Arm Clinical Trials), Monte Carlo method for photon transport in GPU",
+Weaver,Bruce,bruce.weaver@fda.hhs.gov,CDER,IO,,
+Holloway,Brian,brian.holloway@fda.hhs.gov,ORA,ORA OM,,
+Fochtman,Brian,brian.fochtman@fda.hhs.gov,CBER,,molecular modeling in grad school,none
+Gallas,Brandon,brandon.gallas@fda.hhs.gov,CDRH,OSEL,,"Imaging, Reader Studies"
+Vasseur,Bernard,bernard.vasseur@fda.hhs.gov,CDRH,ODE,cardiothoracic cardiology surgical devices,
+Tesfaldet,Bereket,bereket.tesfaldet@fda.hhs.gov,CDER,OTS/OCS,Statistical,
+Simonetti,Arianna,Arianna.Simonetti@fda.hhs.gov,CDRH,OSB/DBS,"Simulation Modeling of US Blood Supply in Support of Emergency Preparedness and Medical Countermeasures, Statistical Modeling for Surveillance of Cancer Population","Risk Assessment for Transfusion Transmitted Infectious Diseases, Risk Assessment in support of Emergency Preparedness and Medical Countermeasures, Statistical Review of Diagnostic Medical Devices"
+Paredes,Antonio,antonio.paredes@fda.hhs.gov,CTP,Sceince,"Statistical M&S, population modeling, causal inference",Drug &Tobacco
+Lumen,Annie,annie.lumen@fda.hhs.gov,OCS,,"PBPK, Dose-Response, PD, Bayesian, Monte Carlo, Global Sensitivity Analysis",Model development for regulatory risk assessment applications
+Miglino,Andrew,andrew.miglino@fda.hhs.gov,CVM,ONADE,"sorption, soil-water, quantum chemistry, molecular dynamics, solvation, QSAR","fonsi, environmental assessment, guidance for industry"
+Szarfman,Ana,ana.szarfman@fda.hhs.gov,CDER,OND,Some,Wide
+Mokhtari,Amir,amir.mokhtari@fda.hhs.gov,CFSAN,OAO,"Probabilistic Risk Assessment, Exposure Modeling, MCDA",
+Herman,Alexander,Alexander.Herman@fda.hhs.gov,CDRH,OSEL,Some CFD and Data Analysis,ODE Volunteer & ORISE Fellow
+Sawarkar,Abhivyakti,abhivyakti.sawarkar@fda.hhs.gov,CDER,OTS,familiar,beginner

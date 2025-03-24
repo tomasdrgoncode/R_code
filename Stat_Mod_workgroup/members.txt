@@ -1,0 +1,12 @@
+center count
+CBER	6
+CDER	27
+CDRH	15
+CFSAN	10
+CTP	9
+CVM	5
+NCTR	8
+OC	2
+OEIO	1
+OFVM	1
+ORA	2
