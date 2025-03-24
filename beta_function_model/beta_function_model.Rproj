@@ -1,0 +1,66 @@
+ex<-c(0:99) #exposure
+sev<-c(0:99) #severity
+mod<-vector(mode="numeric", length=0) #prepare empty vector
+min_beta = 0.5
+
+for (i in 1:10){
+  for (j in 1:10){
+    x<-ex[i]*sev[j] # product of exposure and severity
+    y<-0.5 + (0.5/81)*x #coerce between 0.5 and 1
+    mod<-append(mod, y) #put into vector
+  }
+}
+
+for (i in 1:10){
+  for (j in 1:10){
+    x<-ex[i] + sev[j] # sum of exposure and severity
+    y<-0.5 + (0.5/18)*x #coerce between 0.5 and 1
+    mod<-append(mod, y) #put into vector
+  }
+}
+
+for (i in 1:10){
+  for (j in 1:10){
+    x<-ex[i]^2 + sev[j]^2 # sum of exposure^2 and severity^2
+    y<-0.5 + (0.5/162)*x #coerce between 0.5 and 1
+    mod<-append(mod, y) #put into vector
+  }
+}
+
+for (i in 1:10){
+  for (j in 1:10){
+    x<-(0.4*ex[i]*sev[j] + 0.4*(ex[i] + sev[j]) + 0.2*(ex[i]^2 + sev[j]^2))# more complex function
+    y<-0.5 + (0.5/72)*x #coerce between 0.5 and 1
+    mod<-append(mod, y) #put into vector
+  }
+}
+
+
+#chasing zero functions
+
+ex<-c(0:9) #exposure
+sev<-c(0:9) #severity
+mod<-vector(mode="numeric", length=0) #prepare empty vector
+
+for (i in 1:10){
+  for (j in 1:10){
+    x<-(ex[i]/(3+ex[i]))*sev[j] # product of exposure and severity
+    y<-x/((ex[10]/(3+ex[10]))*sev[10]) #coerce between xx and 1
+    mod<-append(mod, y) #put into vector
+  }
+}
+
+beta<-matrix(mod, nrow=10, ncol=10) #matrix from vector
+
+persp(ex, sev, beta, theta=-60, phi=5, zlim = range(0,1))
+persp3D(ex,sev,beta,theta=-60, phi=5)
+persp3d(ex, sev, beta) #{rgl}
+lines3d(ex,sev,beta)
+
+
+ex<-c(0:100)
+exc<-ex/(20+ex)
+plot (exc)
+
+
+
